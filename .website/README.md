@@ -1,4 +1,8 @@
 ---
+genres:
+  - puzzle
+  - casual
+  - music
 video: https://youtu.be/b6fG9LXLS6w
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
